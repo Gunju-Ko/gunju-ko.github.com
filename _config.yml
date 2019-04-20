@@ -76,13 +76,6 @@ social:
     desc: GitHub
     share: true
 
-  - name: LinkedIn
-    icon: linkedin
-    username: Gunju Ko
-    url: https://www.linkedin.com/in/gunju-ko-649a2013b/
-    desc: Connect with me on LinkedIn
-    share: true
-
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
