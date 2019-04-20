@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Apache HttpClient Connection Management" 
+author: Gunju Ko
 tags: [http, httpClient]
 ---
 
