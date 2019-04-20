@@ -3,6 +3,7 @@ layout: post
 title: "Apache HttpClient Connection Management" 
 author: Gunju Ko
 categories: [http, httpClient]
+cover:  "/assets/instacode.png"
 ---
 
 ## Apache HttpClient Connection Management
