@@ -2,7 +2,7 @@
 layout: post
 title: "Apache Spark  Job이 시작하지 못할때" 
 author: Gunju Ko
-categories: [spark]
+categories: [hadoop, spark]
 cover:  "/assets/instacode.png"
 ---
 
