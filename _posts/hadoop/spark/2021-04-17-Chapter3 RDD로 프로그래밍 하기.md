@@ -1,3 +1,11 @@
+---
+layout: post
+title: "러닝 스파크 - Chapter3. RDD로 프로그래밍 하기"
+author: Gunju Ko
+categories: [spark]
+cover:  "/assets/instacode.png"
+---
+
 # RDD로 프로그래밍 하기
 
 > 이 글은 "러닝 스파크" 책 내용을 정리한 글입니다.
